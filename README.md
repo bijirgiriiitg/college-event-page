@@ -1,1 +1,1 @@
-# college-event-page
+# college.github.io
