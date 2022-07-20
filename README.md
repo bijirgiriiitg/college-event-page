@@ -3,7 +3,7 @@
 <p align="justify">College Event Page is a web platform that a user can know all the details about college events and where a user can get the
 contact details of college in contact page.</p> 
 
-<h2>👇 We are implementing features like:</h2>
+<h2>👇 Implementing features like:</h2>
 
 
 <ul>
