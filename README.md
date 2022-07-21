@@ -9,7 +9,7 @@ contact details of college in contact page.</p>
 <ul>
 <li>User Can get the contact details of the college to know about events.</li>
 <br/>
-<li>User can know diffent type of events of college.</li>
+<li>User can know different types of events of college.</li>
 <br/>
 </ul>
 
